@@ -5,7 +5,7 @@ Este proyecto tiene como objetivo predecir el ganador del Torneo Final de la NCA
 Preparación de los Datos
 Los datos se cargan desde archivos CSV obtenidos de la pagina: https://www.kaggle.com/competitions/march-machine-learning-mania-2023/data y se fusionan los datos del torneo tanto de los torneos masculinos como femeninos. Se eliminan algunas columnas y se agrega una nueva columna que representa la diferencia de puntuación entre los equipos ganadores y perdedores.
 
-Descripción del conjunto de datos
+Descripción del conjunto de datos:
 
 Cada temporada se juegan miles de partidos de baloncesto de la NCAA entre equipos de baloncesto universitario de la División I, culminando en el March Madness®, el campeonato nacional de 68 equipos que comienza a mediados de marzo. Hemos proporcionado una gran cantidad de datos históricos sobre partidos y equipos de baloncesto universitario, que se remontan a muchos años atrás. Con estos datos históricos, puedes explorarlos y desarrollar tus propias formas distintivas de predecir los resultados de los partidos del March Madness®. Incluso puedes evaluar y comparar diferentes enfoques viendo cuál de ellos habría sido el mejor para predecir los partidos del torneo en el pasado.
 
@@ -69,7 +69,8 @@ Determinar al Ganador
 Se utiliza la función final_winner para determinar al ganador de la ronda final. La función mezcla la lista de ganadores y elimina equipos hasta que solo quede un ganador. Por último, se imprime el nombre y la ID del ganador.
 
 Contribuidores
-Adrian Infantes - infantesromeroadrian@gmail.com
+Adrian Infantes
+Luis Perez
+Anthony Perez
 
-
-Tenga en cuenta que este README resume los pasos y la información proporcionados en el código. Se pueden encontrar más detalles sobre el proyecto y la implementación en el código y en los comentarios del mismo.
+Se pueden encontrar más detalles sobre el proyecto y la implementación en el código y en los comentarios del mismo.
