@@ -65,8 +65,8 @@ Determinar al Ganador
 Se utiliza la función final_winner para determinar al ganador de la ronda final. La función mezcla la lista de ganadores y elimina equipos hasta que solo quede un ganador. Por último, se imprime el nombre y la ID del ganador.
 
 Contribuidores
-Adrian Infantes
-Luis Perez
-Anthony Perez
+Adrian Infantes (infantesromeroadrian@gmail.com)
+Luis Miguel Perez (luismiperez17@gmail.com)
+Anthony Perez (antoniperezherrera@gmail.com)
 
 Se pueden encontrar más detalles sobre el proyecto y la implementación en el código y en los comentarios del mismo.
