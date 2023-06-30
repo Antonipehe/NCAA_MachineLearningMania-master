@@ -15,14 +15,10 @@ Ten en cuenta que en años anteriores había competiciones separadas para predec
 
 Como recordatorio, se recomienda incorporar tus propias fuentes de datos. Hemos proporcionado datos históricos extensos para iniciar el proceso de modelado, y estos datos son autoconsistentes (por ejemplo, las fechas y las ID de los equipos siempre se tratan de la misma manera). Sin embargo, también puedes hacer uso productivo de datos externos. Si decides seguir este camino, ten en cuenta que muchas fuentes tienen su propia forma distintiva de identificar los nombres de los equipos, lo que puede dificultar la vinculación con nuestros datos. Los archivos MTeamSpellings y WTeamSpellings, que se enumeran en la sección inferior, pueden ayudarte a relacionar las referencias externas de los equipos con nuestra propia estructura de ID de equipos, y es posible que también necesites comprender cómo funcionan exactamente las fechas en nuestros datos.
 
-Extendemos nuestro agradecimiento a Kenneth Massey por proporcionar gran parte de los datos históricos.
-
-Agradecimiento especial a Jeff Sonas de Sonas Consulting por su apoyo en la recopilación del conjunto de datos para esta competición.
-
 Qué predecir
 Competencia de calentamiento (Warmup Competition): Debes enviar las probabilidades predichas para todos los posibles enfrentamientos en los últimos 5 torneos de la NCAA® (2017-2019 y 2021-2022). Ten en cuenta que no se celebró ningún torneo en 2020.
 
-Competencia de 2023: Debes enviar las probabilidades predichas para todos los posibles enfrentamientos antes de que comience el torneo de 2023.
+Competencia de 2023: Debe enviar las probabilidades predichas para todos los posibles enfrentamientos antes de que comience el torneo de 2023.
 
 Consulta la página de Cronograma (Timeline) para ver las fechas específicas. En ambas etapas, la muestra de envío te indicará qué partidos debes predecir.
 
